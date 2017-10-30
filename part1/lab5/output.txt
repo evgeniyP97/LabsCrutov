@@ -1,0 +1,13 @@
+Номер     Число элементов           Пузырьком             Быстрая             Выбором           Вставками            Слиянием
+    1                 100                0 ms                0 ms                1 ms                0 ms                0 ms
+    2                 200                0 ms                0 ms                0 ms                0 ms                0 ms
+    3                 400                3 ms                0 ms                2 ms                2 ms                0 ms
+    4                 800                2 ms                0 ms                1 ms                2 ms                2 ms
+    5                1600                6 ms                0 ms                4 ms                0 ms                6 ms
+    6                3200               20 ms                0 ms                9 ms                3 ms               28 ms
+    7                6400               59 ms                0 ms               26 ms               11 ms              100 ms
+    8               12800              250 ms                1 ms              104 ms               48 ms              425 ms
+    9               25600              925 ms                3 ms              418 ms              246 ms             1666 ms
+   10               51200             3721 ms                6 ms             1657 ms             1085 ms             6050 ms
+   11              102400            14880 ms               13 ms             6715 ms             4459 ms            24430 ms
+   12              204800            59608 ms               27 ms            26531 ms            18019 ms            98355 ms
